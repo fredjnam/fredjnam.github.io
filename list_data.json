@@ -1,22 +1,40 @@
 {
-	"movies": [
+	"Favorite Travel Destinations": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Country": "United Kingdom",
+			"City": "Brighton",
+			"Favorite Spot": "Brighton Palace Pier",
+			"Year Visited": "2016"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Country": "Japan",
+			"City": "Tokyo",
+			"Favorite Spot": "Shibuya",
+			"Year Visited": "2023"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Country": "South Korea",
+			"City": "Seoul",
+			"Favorite Spot": "Apgujeong",
+			"Year Visited": "2023"
+		},
+		{
+			"Country": "United States",
+			"City": "Death Valley National Park",
+			"Favorite Spot": "Zabriskie Point",
+			"Year Visited": "2023"
+		},
+		{
+			"Country": "United States",
+			"City": "New York",
+			"Favorite Spot": "Highline",
+			"Year Visited": "2022"
+		},
+		{
+			"Country": "Hungary",
+			"City": "Budapest",
+			"Favorite Spot": "Hungarian Parliament Building",
+			"Year Visited": "2019"
 		}
 	]
 }
