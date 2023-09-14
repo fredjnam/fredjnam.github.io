@@ -1,0 +1,40 @@
+{
+	"Favorite Travel Destinations": [
+		{
+			"Country": "United Kingdom",
+			"City": "Brighton",
+			"Favorite Spot": "Brighton Palace Pier",
+			"Year Visited": "2016"
+		},
+		{
+			"Country": "Japan",
+			"City": "Tokyo",
+			"Favorite Spot": "Shibuya",
+			"Year Visited": "2023"
+		},
+		{
+			"Country": "South Korea",
+			"City": "Seoul",
+			"Favorite Spot": "Apgujeong",
+			"Year Visited": "2023"
+		},
+		{
+			"Country": "United States",
+			"City": "Death Valley National Park",
+			"Favorite Spot": "Zabriskie Point",
+			"Year Visited": "2023"
+		},
+		{
+			"Country": "United States",
+			"City": "New York",
+			"Favorite Spot": "Highline",
+			"Year Visited": "2022"
+		},
+		{
+			"Country": "Hungary",
+			"City": "Budapest",
+			"Favorite Spot": "Hungarian Parliament Building",
+			"Year Visited": "2019"
+		}
+	]
+}
